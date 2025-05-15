@@ -1,4 +1,4 @@
-# Research Tool
+# Paper Summarization Tool
  This is a Streamlit application that provides a user interface for summarizing research papers using a language model (GPT-4.1).
 # Features
  - Select a research paper from a predefined list.
